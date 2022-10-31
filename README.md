@@ -13,7 +13,9 @@
 
 ## What is Clipper
 
-![Demo](./demo.gif)
+<div align=center>
+    <img src="https://github.com/a1393323447/clipper/blob/main/demo.gif">
+</div>
 
 Clipper is a small tool for managing clipboard history with labels.
 
