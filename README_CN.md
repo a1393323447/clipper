@@ -34,4 +34,4 @@ Go to [release page]().
 
 ## LICENSE
 
-[MIT]()
+[MIT](https://github.com/a1393323447/clipper/blob/main/LICENSE)
