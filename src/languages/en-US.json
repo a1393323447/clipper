@@ -1,0 +1,34 @@
+{
+    "name": "English",
+    "tabPanel": {
+        "history": "history",
+        "setting": "setting"
+    },
+    "searchInputPlaceholder": "search",
+    "copyBtn": "copy",
+    "deleteBtn": "delete",
+    "addLabelBtn": "add label",
+    "addLabelErrorMsg": {
+        "tooManyLabels": "The max number of labels is $MAX_LABEL_COUNT$!",
+        "emptyLabelName": "should contain at least 1 letter!",
+        "nameTooLong": "The length should <= $MAX_NAME_LEN$!"
+    },
+    "newLabelInput": {
+        "label": "New Label"
+    },
+    "setting": {
+        "manageLabels": {
+            "header": "Manage Labels",
+            "caption": "Click the delete button to delete a label",
+            "emptyMsg": "There is no label"
+        },
+        "removeLabelErrorNotifyMsg": {
+            "header": "Label $LABEL_NAME$ is referenced by history!",
+            "caption": "Please delete the histories that reference this label first"
+        },
+        "languageSetting": {
+            "header": "Language Setting",
+            "currentLanguage": "Current Language"
+        }
+    }
+}

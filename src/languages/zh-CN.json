@@ -1,0 +1,34 @@
+{
+    "name": "简体中文",
+    "tabPanel": {
+        "history": "历史记录",
+        "setting": "设置"
+    },
+    "searchInputPlaceholder": "搜索",
+    "copyBtn": "复制",
+    "deleteBtn": "删除",
+    "addLabelBtn": "新增标签",
+    "addLabelErrorMsg": {
+        "tooManyLabels": "标签最多只能有 $MAX_LABEL_COUNT$ 个！",
+        "emptyLabelName": "标签名不能为空！",
+        "nameTooLong": "标签名不能超过 $MAX_NAME_LEN$ 个字!"
+    },
+    "newLabelInput": {
+        "label": "新标签名"
+    },
+    "setting": {
+        "manageLabels": {
+            "header": "标签管理",
+            "caption": "点击标签右侧按钮删除标签",
+            "emptyMsg": "现在还没有标签"
+        },
+        "removeLabelErrorNotifyMsg": {
+            "header": "还有一些历史引用了 “$LABEL_NAME$” 这个标签!",
+            "caption": "前先删除引用了该标签的历史记录"
+        },
+        "languageSetting": {
+            "header": "语言设置",
+            "currentLanguage": "当前语言"
+        }
+    }
+}
