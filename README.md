@@ -7,9 +7,14 @@
     <a href="README_CN.md">中文</a>
 </p>
 <p align="center"><span>A small tool for managing clipboard history.</span></p>
+<div align="center">
+
+[![LICENSE](https://img.shields.io/badge/license-mit-green?style=flat)](https://github.com/a1393323447/clipper/LICENSE)
+
 [![Windows Support](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://github.com/a1393323447/clipper/releases)
-[![Mac Support](https://img.shields.io/badge/MACOS-adb8c5?style=flat&logo=macos&logoColor=white)](https://github.com/a1393323447/clipper/releases)
+[![MacOS Support](https://img.shields.io/badge/MACOS-adb8c5?style=flat&logo=macos&logoColor=white)](https://github.com/a1393323447/clipper/releases)
 [![Linux Support](https://img.shields.io/badge/linux-1793D1?style=flat&logo=linux&logoColor=white)](https://github.com/a1393323447/clipper/releases)
+</div>
 
 ## What is Clipper
 
